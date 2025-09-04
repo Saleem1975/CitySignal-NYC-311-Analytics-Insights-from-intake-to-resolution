@@ -6,7 +6,6 @@ This project uses a reproducible Power Query (M) pipeline to prepare NYC 311 ser
 
 ## Pipeline Overview
 
-```mermaid
 flowchart TD
   A[CSV Import] --> B[Promote Headers]
   B --> C[Type Conversion]
@@ -23,7 +22,6 @@ flowchart TD
   M --> N[Reorder Columns → FactRequests]
 ```
 
----
 
 ## Step-by-step
 
