@@ -106,7 +106,7 @@ Latitude, Longitude, HoursToClose
 
 ## Purpose of This Report
 
-This report demonstrates end‑to‑end analytics skills for a data‑analytics portfolio aimed at employers. It showcases:
+This report demonstrates end‑to‑end analytics skills. It showcases:
 - **Data quality engineering** (robust Power Query pipeline, schema typing, cleaning, de‑duplication).
 - **Analytical modeling** (fact table with SLA metric, Date dimension, relationships).
 - **Insightful visuals** focused on operational performance, temporal patterns, and geography.
